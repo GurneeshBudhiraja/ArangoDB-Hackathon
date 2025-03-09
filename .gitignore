@@ -7,3 +7,4 @@ pyvenv.cfg
 todo.*
 data-centrality.ipynb
 *-agent.ipynb
+.ipynb_checkpoints
