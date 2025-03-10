@@ -1,4 +1,5 @@
-## Agentic Graph Intelligence for Healthcare
+# MedGraph AI: Intelligent Healthcare Agent  
+
 ### This project is an AI-powered agent designed to enhance healthcare data analysis using ArangoDB, NetworkX, and cuGraph. It enables efficient query execution, graph-based analytics, and geospatial visualization to provide actionable insights for medical professionals.
 
 ## Features
